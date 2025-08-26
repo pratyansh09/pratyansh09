@@ -25,7 +25,7 @@ I’ve worked on several *analytics and visualization projects* (Power BI dashbo
 
 ## 🌍 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PratyanshKumar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyansh-kumar)  
+[![LinkedIn];https://www.linkedin.com/in/pratyansh-kumar-9a63ab355/ 
 📧 *Email:* [pratyanshkumar20@gmail.com](mailto:pratyanshkumar20@gmail.com)  
 
 ---

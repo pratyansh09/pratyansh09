@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratyansh Kumar  
 
-<!--
-**pratyansh09/pratyansh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 A *Data Analyst* passionate about turning raw data into actionable insights.  
+I specialize in *data cleaning, visualization, and business intelligence, with hands-on experience in tools like **Power BI, SQL, Python, Tableau, and Excel*.  
 
-Here are some ideas to get you started:
+Currently pursuing my *MBA in Data Science*, I aim to bridge business needs with data-driven strategies and help organizations make smarter decisions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Expertise  
+
+- *Programming & Databases:* Python, SQL, R, MongoDB  
+- *Visualization & BI Tools:* Power BI, Tableau, Excel, DAX  
+- *Data Concepts:* Data Cleaning, ETL, Data Warehousing, Data Modeling, KPIs  
+- *Other Tools:* Microsoft Office Suite, Statistical Analysis  
+
+---
+
+## 📂 Projects  
+
+I’ve worked on several *analytics and visualization projects* (Power BI dashboards, SQL-based analysis, and more).  
+👉 Project links are provided in the respective repositories of this profile.  
+
+---
+
+## 🌍 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PratyanshKumar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyansh-kumar)  
+📧 *Email:* [pratyanshkumar20@gmail.com](mailto:pratyanshkumar20@gmail.com)  
+
+---
+
+💡 “Data is the new oil, but insight is the fuel that drives impact.”
